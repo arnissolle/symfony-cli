@@ -18,7 +18,8 @@ docker run --rm -it \
 
 ### Git
 
-By default, it will commits with: Symfony CLI <noreply@symfony.com>
+By default, it will commits with: Symfony CLI \<noreply@symfony.com\>
+
 To commit by your name, feel free to mount a volume like so:
 
 ```bash
